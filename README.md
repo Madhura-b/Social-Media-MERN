@@ -6,7 +6,7 @@ Prerequirements
 - MongoDB
 - Node ^10.0.0
 - npm
-<br/>
+
 Client-side usage(PORT: 3000):<br/>
 ```
 $ cd client   // go to client folder
