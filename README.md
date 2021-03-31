@@ -1,6 +1,6 @@
 # Social-Media-MERN
 
-A simple social media application that allows users to post interesting events that happened in their lives - developed using React, Node, Express and MongoDB.
+A simple social media application that allows users to post interesting events that happened in their lives - developed using MongoDB, Expressjs, React/Redux, Nodejs.
 <br/>
 <br/>
 Prerequirements
