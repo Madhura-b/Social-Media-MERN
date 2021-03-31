@@ -23,4 +23,5 @@ $ npm start
 <br/>
 Note that you need client and server running concurrently in different terminal sessions.
 <br/>
-![Screenshot](Screenshot.png")
+
+![Screenshot](Screenshot.png)
