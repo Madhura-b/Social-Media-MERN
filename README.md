@@ -21,5 +21,6 @@ $ npm i       // npm install pacakges
 $ npm start 
 ```
 <br/>
-Note that you need client and server running concurrently in different terminal sessions.<br/>
-![Alt text](https://raw.githubusercontent.com/Madhura-b/Social-Media-MERN/master/Screenshot.png")
+Note that you need client and server running concurrently in different terminal sessions.
+<br/>
+![Screenshot](https://raw.githubusercontent.com/Madhura-b/Social-Media-MERN/master/Screenshot.png")
