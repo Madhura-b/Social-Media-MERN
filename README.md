@@ -2,6 +2,7 @@
 
 A simple social media application that allows users to post interesting events that happened in their lives - developed using React, Node, Express and MongoDB.
 <br/>
+<br/>
 Prerequirements
 - MongoDB
 - Node ^10.0.0
@@ -21,4 +22,4 @@ $ npm start
 ```
 <br/>
 Note that you need client and server running concurrently in different terminal sessions.<br/>
-![Screenshot](Screenshot.png)
+![Alt text](https://raw.githubusercontent.com/Madhura-b/Social-Media-MERN/master/Screenshot.png")
