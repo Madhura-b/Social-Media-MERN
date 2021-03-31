@@ -20,8 +20,9 @@ $ cd server   // go to server folder
 $ npm i       // npm install pacakges
 $ npm start 
 ```
-<br/>
 Note that you need client and server running concurrently in different terminal sessions.
 <br/>
+<br/>
+
 
 ![Screenshot](Screenshot.png)
