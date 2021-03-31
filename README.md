@@ -23,4 +23,4 @@ $ npm start
 <br/>
 Note that you need client and server running concurrently in different terminal sessions.
 <br/>
-![Screenshot](https://raw.githubusercontent.com/Madhura-b/Social-Media-MERN/master/Screenshot.png")
+![Screenshot](Screenshot.png")
